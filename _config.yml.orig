@@ -560,7 +560,11 @@ vendors:
   # https://github.com/hustcc/canvas-nest.js
   canvas_nest:
 
+<<<<<<< HEAD
+  #three
+=======
   # three
+>>>>>>> 51b708ab35e6411ff8ba8588801d9a7c877bcd8f
   three:
 
   # three_waves
